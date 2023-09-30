@@ -35,6 +35,7 @@ class _LoginScreemState extends State<LoginScreem> {
       /*==============================================================
         Safe Area para Inserir un escape de camera na ui
       ===============================================================*/
+      
       body: SafeArea(
         /*==============================================================
           SingleChildScrollView resolve problemas de Owerflow
