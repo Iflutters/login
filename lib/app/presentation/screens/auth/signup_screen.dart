@@ -88,6 +88,7 @@ class _SignupScreenState extends State<SignupScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       SizedBox(height: 10.w),
+
                      Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
